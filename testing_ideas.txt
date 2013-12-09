@@ -1,0 +1,2 @@
+more test ideas: http://github.com/mitsuhiko/flask/tree/master/examples/minitwit/
+rest of flaskr testing info: http://flask.pocoo.org/docs/testing/#testing
